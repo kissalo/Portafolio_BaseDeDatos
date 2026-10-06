@@ -6,7 +6,7 @@
 
 # 🗄️ **Universidad Nacional de Loja**
 
-### *Carrera de Computación · Primer Ciclo*
+### *Carrera de Computación · Tercer Ciclo*
 
 <br>
 
@@ -17,7 +17,7 @@
 <br><br>
 
 ### 👩‍🏫 **Docente**
-### *Ing. Renez*
+### *Ing. René Guamán*
 
 <br>
 
@@ -27,7 +27,7 @@
 <br>
 
 ### 📅 **Período Académico**
-### *Septiembre 2025 – Febrero 2026*
+### *Septiembre 2026 – Febrero 2027*
 
 <br><br>
 
