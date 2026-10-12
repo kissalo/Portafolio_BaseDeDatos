@@ -42,8 +42,5 @@
 - 📌 [**Unidad 1**](Unidad%201.md)
 - 🧠 [**Unidad 2**](Unidad%202.md)
 - 🛠️ [**Unidad 3**](Unidad%203.md)
-- 📖 [**Conclusiones Generales**](#conclusiones-generales-)
-- 🤖 [**Declaración de IA**](#declaración-de-ia-)
-- 📚 [**Bibliografía**](#bibliografía-)
 
 ---
