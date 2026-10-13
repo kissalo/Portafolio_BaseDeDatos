@@ -39,8 +39,8 @@
 
 ## 📚 Contenido
 
-- 📌 [**Unidad1**](Unidad.md)
-- 🧠 [**Unidad2**](Unidad.md)
-- 🛠️ [**Unidad3**](Unidad.md)
+- 📌 [**Unidad1**](Unidad1)
+- 🧠 [**Unidad2**](Unidad2)
+- 🛠️ [**Unidad3**](Unidad3)
 
 ---
